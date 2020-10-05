@@ -75,7 +75,7 @@ Most of today's open source projects are set up as open source using two major p
 * **Git**: Software to create and manage "repositories", or collectsions of files with detailed histories of changes and versions.
 * **GitHub**: A website that hosts Git repositories, along with useful development features for collaborating on them.
 
-To be super clear: _Git_ is open source software and _GitHub_ is a company adn service providing offerings built on Git.
+To be super clear: _Git_ is open source software and _GitHub_ is a company and service providing offerings built on Git.
 They're not the same thing.
 
 ### GitHub
