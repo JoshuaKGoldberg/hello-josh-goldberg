@@ -987,7 +987,7 @@ All right!
 We've created a repository, set it up as a published package, and resolved an issue in it with a pull request.
 That's the basic flow of project maintenance.
 
-To reinforce the process so far, I encourage you to talk to another person in this workshop and get the URL to their repository so you can:
+To reinforce the process so far, I'd encourage you to talk to another participant after this workshop and get the URL to their repository so you can:
 
 1. File an issue on their repository
 2. Wait for them to add an `accepting prs` label on that issue
@@ -1011,6 +1011,9 @@ To set up a local repository for _another_, already-existing GitHub repository:
     cd hello-their-name
     npm install
     ```
+
+> Alternately, you could [fork their repository](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo), which would make another repository.
+> I find it's easier to understand Git at first without forking.
 
 ### Collaborators
 
