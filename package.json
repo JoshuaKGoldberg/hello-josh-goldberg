@@ -1,0 +1,9 @@
+{
+  "author": "Josh Goldberg",
+  "description": "A sample package written by me, Josh Goldberg, to practice working in open source software. Hooray!",
+  "keywords": ["hello", "josh goldberg", "open source"],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "hello-josh-goldberg",
+  "version": "0.0.1"
+}
