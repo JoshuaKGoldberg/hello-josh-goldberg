@@ -1,5 +1,8 @@
 {
   "author": "Josh Goldberg",
+  "bin": {
+      "hello-josh-goldberg": "bin/hello-josh-goldberg"
+  },
   "description": "A sample package written by me, Josh Goldberg, to practice working in open source software. Hooray!",
   "keywords": [
     "hello",
