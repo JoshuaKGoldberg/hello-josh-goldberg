@@ -201,7 +201,7 @@ Now that we've made some changes to our local files, we'll want to store them in
 2. Run this command to preview in your terminal what changes are ready to be committed:
 
     ```shell
-    git diff
+    git diff HEAD
     ```
 
     This command isn't strictly necessary, but I like previewing changes before making them to be sure I'm not doing anything bad accidentally.
@@ -826,7 +826,7 @@ Now change `index.js` to use `chalk`'s `brightGreen` function on specifically th
 ```js
 const chalk = require('chalk');
 
-module.exports = () => {
+module.exports.hello = () => {
     console.log(chalk.greenBright("Hello!"), chalk.green("It's me, Your Name!"));
 };
 ```
